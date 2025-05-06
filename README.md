@@ -40,4 +40,4 @@ content.
 - Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of 	Items, Average Rating) broken down by different outlet types.
 
 # SQL Queries
-![Blinkit Sales]()
+![Blinkit Sales](https://github.com/Nikhil29112002/Blinkit-Sales-Analysis-SQL-Queries-/blob/main/Query%20Doc%20(3).docx)
